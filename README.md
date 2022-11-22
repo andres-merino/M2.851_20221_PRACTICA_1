@@ -9,11 +9,11 @@ El presente repositorio contiene el código fuente que se generó en la resoluci
 
 ## Archivos
 
-- [memoria.pdf](): Contiene las respuestas a las preguntas planteadas en la práctica.
+- [memoria.pdf](https://github.com/andres-merino/M2.851_20221_PRACTICA_1/blob/main/memoria.pdf): Contiene las respuestas a las preguntas planteadas en la práctica.
 - [source/funciones.py](https://github.com/andres-merino/M2.851_20221_PRACTICA_1/blob/main/source/funciones.py): Contiene las funciones que se definieron para realizar la captura de datos.
 - [source/PRA1.ipynb](https://github.com/andres-merino/M2.851_20221_PRACTICA_1/blob/main/source/PRA1.ipynb): Contiene el código fuente de la práctica, en este se detalla el proceso de captura de datos.
-- [source.robots_MercadoLibre.txt](https://github.com/andres-merino/M2.851_20221_PRACTICA_1/blob/main/source/robots_MercadoLibre.txt): Contiene el archivo robots.txt de la página de MercadoLibre Ecuador.
-- [source.robots_Xiaomi.txt](https://github.com/andres-merino/M2.851_20221_PRACTICA_1/blob/main/source/robots_Xiaomi.txt): Contiene el archivo robots.txt de la página de Xiaomi Ecuador.
+- [source/robots_MercadoLibre.txt](https://github.com/andres-merino/M2.851_20221_PRACTICA_1/blob/main/source/robots_MercadoLibre.txt): Contiene el archivo robots.txt de la página de MercadoLibre Ecuador.
+- [source/robots_Xiaomi.txt](https://github.com/andres-merino/M2.851_20221_PRACTICA_1/blob/main/source/robots_Xiaomi.txt): Contiene el archivo robots.txt de la página de Xiaomi Ecuador.
 - [requirements.txt](https://github.com/andres-merino/M2.851_20221_PRACTICA_1/blob/main/requirements.txt): Contiene las dependencias necesarias para ejecutar el código fuente.
 - [data/telefonos_xiaomi_ec.csv](https://github.com/andres-merino/M2.851_20221_PRACTICA_1/blob/main/dataset/telefonos_xiaomi_ec.csv): Contiene los datos de los productos de la categoría "Celulares y Teléfonos" de MercadoLibre Ecuador que fueron extraidos
 
